@@ -44,7 +44,7 @@ To use the PDF to Audiobook converter, follow these steps:
    ```sh
    python pdf_to_audiobook.py <path_to_pdf> <output_audio_file> <language_code>
 
-   Replace <path_to_pdf>, <output_audio_file>, and <language_code> with your PDF's path, desired output audio file's name, and language code respectively.
+   ## Replace <path_to_pdf>, <output_audio_file>, and <language_code> with your PDF's path, desired output audio file's name, and language code respectively.
 
 ## Contributing
 
