@@ -1,0 +1,6 @@
+PyPDF2
+pytesseract
+Pillow
+google-cloud-texttospeech
+pdf2image
+tqdm
